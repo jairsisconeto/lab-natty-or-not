@@ -1,10 +1,10 @@
 # Título do Projeto Extremamente Aesthetic ;)
 
 ## 📒 Descrição
-"Desbravando Marte: Benefícios e Oportunidades da Colonização Humana no Planeta Vermelho"
+"Desbravando Marte: Benefícios e Oportunidades da Colonização Humana no Planeta Vermelho".
 
 ## 🤖 Tecnologias Utilizadas
-IA Generativa, Microsoft Copilot
+IA Generativa, Microsoft Copilot.
 
 ## 🧐 Processo de Criação
 Ultilizei o "Copilot" para criar uma imagem  e me contar os beneficios que uma comunidade de humanos no planeta marte, poderia proprorcionar ao avanço da humanina.
