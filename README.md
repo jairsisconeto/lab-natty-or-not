@@ -7,7 +7,7 @@
 IA Generativa, Microsoft Copilot
 
 ## 🧐 Processo de Criação
-Ultilizei o "Copilot" para criar uma imagem  e me contar os beneficios que uma comunidade de humanos poderia proprorcionar ao avanço da humanina.
+Ultilizei o "Copilot" para criar uma imagem  e me contar os beneficios que uma comunidade de humanos no planeta marte, poderia proprorcionar ao avanço da humanina.
 
 ## 🚀 Resultados
 Apresenta um conteúdo envolvente e visualmente rico, demonstrando como as IAs Genativas podem ser uma ferramenta poderosa na educação e na disseminação do conhecimento.
